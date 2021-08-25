@@ -5,7 +5,7 @@
         <title>silver_bulletinboard</title>
     </head>
     <body>
-        <h2>好きな色を教えてください♪(´▽｀)</h2>
+        <h2>好きな色を教えてください( *︾▽︾)</h2>
         <?php
         $editnum = ""; //編集用変数
         $editname = ""; //編集用変数
